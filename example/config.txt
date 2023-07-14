@@ -1,0 +1,2 @@
+Prefix plugins/UnionSelect/example
+Plugin UnionSelect inputfile parameters.txt outputfile .

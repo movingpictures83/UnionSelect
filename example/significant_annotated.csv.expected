@@ -1,0 +1,21 @@
+CHEM_ID,COMP_ID,SUPER_PATHWAY,SUB_PATHWAY,HMDB,KEGG
+999924674,53102,,,,
+999924675,53103,,,,
+100001501,35160,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)",HMDB0005065,
+999924712,53140,,,,
+100001481,35153,Lipid,Monoacylglycerol,HMDB0011587,
+100002568,40173,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism,HMDB0004159,C05793
+100001162,32452,Lipid,Fatty Acid Metabolism (also BCAA Metabolism),HMDB0000824,C03017
+999917335,47820,,,,
+100001293,33946,Amino Acid,Histidine Metabolism,HMDB0032055,C02997
+100015863,57542,Lipid,Endocannabinoid,,
+798,555,Nucleotide,"Purine Metabolism, Adenine containing",HMDB0000050,C00212
+1648,18497,Lipid,Primary Bile Acid Metabolism,HMDB0000036,C05122
+1489,38165,Lipid,Endocannabinoid,HMDB0002100,C16512
+1137,38102,Lipid,Endocannabinoid,HMDB0002088,
+240,32197,Amino Acid,Tyrosine Metabolism,HMDB0000755,C03672
+1053,3155,Nucleotide,"Pyrimidine Metabolism, Uracil containing",HMDB0000026,C02642
+100000787,22185,Amino Acid,Alanine and Aspartate Metabolism,HMDB0000812,C01042
+999924663,53091,,,,
+999924669,53097,,,,
+100001022,27738,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism,"HMDB0062620,HMDB0000943",C01620
